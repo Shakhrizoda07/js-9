@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.zz{
+
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding-top: 50px;
+    padding-left: 10px;
+    gap: 15px;
+}
+p{
+    color :white
+}
